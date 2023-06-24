@@ -1,0 +1,157 @@
+.bs-icon-sm.bs-icon-rounded.bs-icon-primary.bs-icon {
+  background-image: url('../../assets/img/favicon32.png');
+}
+
+#navcol-2 {
+  font-weight: bold;
+}
+
+.bg-img {
+  width: 100%;
+  height: 250px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: url("../../assets/img/images%20(501).jpg");
+  text-align: center;
+  padding: 25px;
+}
+
+body {
+  padding: 0px;
+  font-family: nexa, "century gothic";
+}
+
+.section {
+  width: 80%;
+  margin: auto;
+}
+
+h1 {
+  font-weight: bolder;
+  font-weight: 900;
+}
+
+.member {
+}
+
+@media {
+}
+
+@media (max-width: 575px) {
+  .there {
+    width: 500px;
+  }
+}
+
+.there {
+  background-color: black;
+}
+
+@media (max-width: 575px) {
+  #here {
+    width: 500px;
+  }
+}
+
+.bg-img h1 {
+  font-size: 50px;
+}
+
+.bg-img p {
+  font-size: 13px;
+}
+
+.butn:hover {
+  background-color: green;
+  color: white;
+  box-shadow: 2px 2px 2px black;
+}
+
+.butn {
+  background-color: white;
+  border: none;
+  color: green;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.butn:active {
+  background-color: green;
+  color: white;
+}
+
+#btn:active {
+  background-color: green;
+  color: white;
+}
+
+#footer {
+  background-color: var(--bs-dark);
+}
+
+footer {
+}
+
+@media (max-width: 755px) {
+  #footer1 {
+    width: 755px;
+  }
+}
+
+@media (max-width: 755px) {
+  #here {
+    width: 100%;
+  }
+}
+
+@media (max-width: 755px) {
+  #footer1 {
+    width: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  #footer1 {
+    width: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .team {
+    width: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  #footer {
+    width: 100%;
+  }
+}
+
+.logo2 {
+  width: 200px;
+  height: 60px;
+  background: url('../../assets/img/logofront.png');
+  display: inline-block;
+}
+
+.linkBtn:hover {
+  color: white;
+  text-decoration: none;
+  border: 1px solid green;
+  padding: 10px;
+  border-radius: 20px;
+  font-weight: bold;
+  background-color: green;
+  box-shadow: 1px 2px 2px black;
+}
+
+.linkBtn {
+  color: white;
+  text-decoration: none;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
